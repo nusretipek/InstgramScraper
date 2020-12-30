@@ -10,3 +10,7 @@ Instagram public posts scraper, it crawls links from an open instagram account. 
 2. Change the username 
 3. Run following cells
 
+## In the Future
+
+Number of likes, comments and etc. could be included.
+
